@@ -1,37 +1,42 @@
 <h1 align="center">Hi, I'm Harshal 👋</h1>
 
 <p align="center">
-  <b>AI &amp; Web Developer</b> · M.Sc. Digital Technologies
-  <br>
-  Master's student building AI systems and full-stack web apps — LLMs, RAG, agents &amp; computer vision.
-  <br>
-  Currently in Braunschweig, Germany. Open to <b>Werkstudent, Master's thesis &amp; entry-level AI/Web roles</b> in the EU.
+  <a href="https://harshalbalar.vercel.app">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2EA5FF&center=true&vCenter=true&width=600&lines=AI+%26+Web+Developer;Building+with+LLMs%2C+RAG+%26+Agents;Full-stack+from+idea+to+deployment;Open+to+Werkstudent+%26+Thesis+roles" alt="typing animation">
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=harshalbalar&style=flat-square&color=blue&label=Profile+Views" alt="profile views">
+  M.Sc. Digital Technologies · Braunschweig, Germany
 </p>
 
 <p align="center">
-  🔗 <a href="https://linkedin.com/in/harshal-balar">LinkedIn</a> ·
-  ✉️ <a href="mailto:balarharshal2002@gmail.com">balarharshal2002@gmail.com</a> ·
-  🌐 <a href="https://harshalbalar.vercel.app">harshalbalar.vercel.app</a>
+  <img src="https://komarev.com/ghpvc/?username=harshalbalar&style=for-the-badge&color=blue&label=PROFILE+VIEWS" alt="profile views">
 </p>
 
 <p align="center">
-  <a href="https://github.com/harshalbalar"><img src="https://img.shields.io/badge/View%20My%20Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="view profile"></a>
-  <a href="https://harshalbalar.vercel.app"><img src="https://img.shields.io/badge/Visit%20My%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio"></a>
+  <a href="https://linkedin.com/in/harshal-balar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://harshalbalar.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+  <a href="https://github.com/harshalbalar"><img src="https://img.shields.io/badge/View%20My%20Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-| | Project | What it does |
-|---|---|---|
-| 🧠 | [**Vela Cloud — RAG Assistant**](https://github.com/harshalbalar/ask-vela-RAG-assistant) | Production-style RAG over internal docs: hybrid search (BM25 + semantic), cross-encoder re-ranking, source-cited answers (MRR 0.86, Hit@4 0.96) |
-| 📄 | [**DocMind AI**](https://github.com/harshalbalar/docmind-ai) | Chat with your documents (PDF, DOCX, TXT, CSV, MD) — conversational memory, citations & history-aware follow-ups |
-| 🤖 | [**TurtleBot Card Detection**](https://github.com/harshalbalar/Turtlebot-card-detection) | Real-time computer-vision pipeline on a TurtleBot to detect & classify cards live, integrated with ROS |
+<p align="center">
+  <a href="https://github.com/harshalbalar/ask-vela-RAG-assistant">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=harshalbalar&repo=ask-vela-RAG-assistant&theme=tokyonight&hide_border=true" alt="Vela Cloud RAG Assistant">
+  </a>
+  <a href="https://github.com/harshalbalar/docmind-ai">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=harshalbalar&repo=docmind-ai&theme=tokyonight&hide_border=true" alt="DocMind AI">
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/harshalbalar/Turtlebot-card-detection">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=harshalbalar&repo=Turtlebot-card-detection&theme=tokyonight&hide_border=true" alt="TurtleBot Card Detection">
+  </a>
+</p>
 
 ---
 
