@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Harshal Balar 👋</h1>
 
 <p align="center">
-  <b>AI &amp; Web Developer</b> · M.Sc. Digital Technologies (AI focus)
+  <b>AI &amp; Web Developer</b> · M.Sc. Digital Technologies
   <br>
   I build at the seam between <b>web</b> and <b>machine intelligence</b> — from production-grade interfaces to LLM, RAG &amp; computer-vision systems.
 </p>
