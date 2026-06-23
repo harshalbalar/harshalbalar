@@ -22,24 +22,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/harshalbalar/ask-vela-RAG-assistant">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=harshalbalar&repo=ask-vela-RAG-assistant&theme=tokyonight&hide_border=true" alt="Vela Cloud RAG Assistant">
-  </a>
-  <a href="https://github.com/harshalbalar/docmind-ai">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=harshalbalar&repo=docmind-ai&theme=tokyonight&hide_border=true" alt="DocMind AI">
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/harshalbalar/Turtlebot-card-detection">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=harshalbalar&repo=Turtlebot-card-detection&theme=tokyonight&hide_border=true" alt="TurtleBot Card Detection">
-  </a>
-</p>
-
----
-
 ## 🛠️ Tech Stack
 
 **🤖 AI / Machine Learning**
