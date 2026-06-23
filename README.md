@@ -7,7 +7,13 @@
 </p>
 
 <p align="center">
-  M.Sc. Digital Technologies · Braunschweig, Germany
+  Master's student bridging <b>web</b> and <b>machine intelligence</b> — I build production-grade
+  <br>
+  interfaces and AI systems with <b>LLMs, RAG &amp; computer vision</b>, taking projects from idea to deployment.
+</p>
+
+<p align="center">
+  🎓 M.Sc. Digital Technologies &nbsp;·&nbsp; 📍 Braunschweig, Germany &nbsp;·&nbsp; 💼 Open to Werkstudent &amp; Thesis roles
 </p>
 
 <p align="center">
