@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://harshalbalar.vercel.app">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2EA5FF&center=true&vCenter=true&width=600&lines=AI+%26+Web+Developer;Building+with+LLMs%2C+RAG+%26+Agents;Full-stack+from+idea+to+deployment;Open+to+Werkstudent+%26+Thesis+roles" alt="typing animation">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2EA5FF&center=true&vCenter=true&width=600&lines=AI+%26+Web+Developer;Building+with+LLMs%2C+RAG+%26+Agents;Full-stack+from+idea+to+deployment;Open+to+Werkstudent" alt="typing animation">
   </a>
 </p>
 
@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  🎓 M.Sc. Digital Technologies &nbsp;·&nbsp; 📍 Braunschweig, Germany &nbsp;·&nbsp; 💼 Open to Werkstudent &amp; Thesis roles
+  🎓 M.Sc. Digital Technologies &nbsp;·&nbsp; 📍 Braunschweig, Germany &nbsp;·&nbsp; 💼 Open to Werkstudent
 </p>
 
 <p align="center">
